@@ -4,4 +4,3 @@ print(a)
 
 print(1313131)
 
-print(777)
